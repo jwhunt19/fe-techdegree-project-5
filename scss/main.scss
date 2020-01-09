@@ -1,9 +1,12 @@
+// Modules
+
+// Base
+@import 'base/normalize'; // normalize.css v8.0.1
+@import 'base/reset'; // Reset CSS v2.0 | 20110126
+@import 'base/typography'; // Typography rules
+
 // Vendors
 @import 'vendors/lightbox'; // lightbox2-2.11.1
 
-// Modules
-
-
 // Partials
-@import 'partials/normalize';
-@import 'partials/body'
+@import 'partials/body';
