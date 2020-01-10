@@ -1,4 +1,6 @@
 // Modules
+@import 'modules/variables'; // import vairables
+@import 'modules/mixins'; // import mixins
 
 // Base
 @import 'base/normalize'; // normalize.css v8.0.1
@@ -9,4 +11,4 @@
 @import 'vendors/lightbox'; // lightbox2-2.11.1
 
 // Partials
-@import 'partials/body';
+@import 'partials/body'; // Primary styles
